@@ -2,10 +2,6 @@
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-c-69957912a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitu.cassiano/)
 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorcassiano&show_icons=true&theme=dracula&count_private=true)
-
-![Fraga Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorcassiano&theme=dracula&&hide_progress=true)
 ## Tecnologias que gosto de usar
 
 <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 8px; justify-content: start;">
